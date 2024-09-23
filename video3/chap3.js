@@ -1,3 +1,4 @@
+// Variables, constants, comments (data types)
 
 // const x = 5;
 // x = 6;
